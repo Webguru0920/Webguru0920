@@ -14,7 +14,6 @@ Oh and I am also a computer science student at Internet 🤓
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  homepage: "https://www.linkedin.com/in/mykola-k-43ab2b143/",
   askMeAbout: [
     "dev", "webdev", "frontend", "backend" 
   ],
